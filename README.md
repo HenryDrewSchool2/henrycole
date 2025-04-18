@@ -116,11 +116,11 @@ Work together on **Partner B**'s computer to make the following changes.
 
 **Why do you think it's important to create a new branch when making changes to the code, rather than making changes directly in the main branch?**
 
-Write your answer here!
+If you make a crazy glitch or an error its easier to go back to a previous version to check what the problem was
 
 **What does it mean to push your changes, and why is this an important step in using a version control system like Git?**
 
-Write your answer here!
+If you want to use an older version of a project.
 
 ## Part 4: Open a pull request
 
